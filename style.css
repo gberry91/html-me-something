@@ -1,0 +1,63 @@
+p.heading {
+    color: gold;
+    text-align: center;
+    font-size: 32px;
+    font-family: Times;
+}
+
+#footer {
+        text-align: center;
+        color: gold
+    }
+
+
+
+p {
+
+    color: white;
+    font-size: 14px;
+    font-family :Arial;
+
+
+
+}
+
+h1 {
+    color: gold;
+    font-family: Times;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 65%;
+}
+figure {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+
+
+body {
+
+    background-color: #D5FFFF;
+    text-align: left;
+}
+
+main {
+    background-color: #A3CEDC;
+
+    border: 5px;
+    border-style: solid;
+    border-color: gold;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
